@@ -3,6 +3,7 @@
 data mahasiswa serta penerapan fitur-fitur pendukung yang meningkatkan keamanan dan fungsionalitas sistem. Pada aplikasi Data
 Mahasiswa ini, beberapa aspek penting telah diimplementasikan, meliputi pengolahan data mahasiswa, validasi input, hingga optimasi 
 proses penyimpanan dan manajemen data berbasis database.
+
   Pada fitur pengelolaan data, sistem dirancang untuk mempermudah pengguna dalam menambah, mengubah, menampilkan, hingga menghapus 
 informasi mahasiswa seperti NIM, nama, program studi, fakultas, dan atribut terkait lainnya. Setiap proses dilengkapi dengan validasi 
 untuk memastikan data yang disimpan tetap konsisten dan bebas dari kesalahan input. Selain itu, mekanisme pengamanan tambahan diterapkan 
@@ -14,8 +15,11 @@ mahasiswa menjadi lebih efisien, terstruktur, dan mudah dipelihara.
 
 ## 2. Tujuan
 •	Meningkatkan keamanan pengelolaan data mahasiswa melalui mekanisme verifikasi sehingga perubahan data penting hanya dapat dilakukan oleh pengguna yang berwenang.
+
 •	Mengimplementasikan tombol download yang mampu menghasilkan laporan data mahasiswa secara rapi dan terstruktur dalam berbagai format sesuai kebutuhan pengguna.
+
 •	Meningkatkan kemampuan mahasiswa dalam membangun aplikasi Java berbasis data, mencakup aspek keamanan, pencarian, filter data, serta perancangan database yang terstruktur.
+
 •	Mengembangkan aplikasi data mahasiswa yang stabil, aman, dan mudah digunakan dengan menerapkan konsep OOP, validasi input, manajemen database, serta fitur ekspor dan pelaporan menggunakan Java dan iReport.
 
 ## Instalasi iReport dan Integrasi dengan NetBeans/JDK 20+
